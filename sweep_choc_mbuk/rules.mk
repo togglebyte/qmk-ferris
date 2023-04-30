@@ -19,4 +19,4 @@ RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 UNICODE_ENABLE = yes        # Unicode
 AUDIO_ENABLE = no           # Audio output
 SPLIT_KEYBOARD = yes        # Use shared split_common code
-TAP_DANCE_ENABLE = yes      # Tap dance
+TAP_DANCE_ENABLE = no       # Tap dance
